@@ -1,0 +1,14 @@
+# Python artifacts
+__pycache__/
+.pytest_cache/
+.venv/
+venv/
+*.pyc
+
+# Distribution / packaging
+dist/
+build/
+*.egg-info/
+
+# VS Code
+.vscode/
