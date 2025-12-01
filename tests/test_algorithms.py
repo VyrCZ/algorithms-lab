@@ -1,5 +1,5 @@
 import pytest
-from algorithms-lab.src.algorithms import sum_positive
+from src.algorithms import sum_positive
 
 
 def test_sum_positive_basic():
